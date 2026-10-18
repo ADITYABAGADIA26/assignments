@@ -1,2 +1,2 @@
-# projects
-mini to major every project by me
+# assignments
+html and css assignments
